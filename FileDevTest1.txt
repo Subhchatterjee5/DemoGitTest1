@@ -1,0 +1,1 @@
+This is devtest file 1 checking for merge in git hub by console
